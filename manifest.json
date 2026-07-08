@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "build_number": 97,
+  "build_number": 99,
   "url": "https://github.com/dgbillotte/brainzos-releases/raw/refs/heads/main/brainz-os.ino.bin",
   "checksum_type": "sha256",
-  "checksum": "1542b8967120095d770cb0689ca678907224883bb68b5003a9d99752c91ec55b",
+  "checksum": "7cd6e585326bb1d9dde6519e0d7db704ebba966db4d6afe51439ebf33ba473d8",
   "release_date": "2026-07-06",
   "changelog": "Initial OTA-enabled release",
-  "file_size": 1596688,
+  "file_size": 1596352,
   "minimum_free_flash": 0
 }
