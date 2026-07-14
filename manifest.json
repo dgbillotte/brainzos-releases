@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
-  "build_number": 122,
+  "build_number": 123,
   "url": "https://github.com/dgbillotte/brainzos-releases/raw/refs/heads/main/brainz-os.ino.bin",
   "checksum_type": "sha256",
-  "checksum": "5d2cc31a6d3842379b1be2f34185112504c4cdbada50835f70f8212d6c47a6d1",
+  "checksum": "4e73bbcddfb95e3e4c1fa97aa8d00ee4a49ff7e0f4d58665c615b7c9c09146b5",
   "release_date": "2026-07-06",
   "changelog": "Initial OTA-enabled release",
-  "file_size": 1603696,
+  "file_size": 1603552,
   "minimum_free_flash": 0,
-  "fs_build_number": 4,
+  "fs_build_number": 5,
   "fs_url": "https://github.com/dgbillotte/brainzos-releases/raw/refs/heads/main/ff-m101-filesystem-generic.bin",
-  "fs_checksum": "08722656cbe403cc0e94e8b7124d06a6a6b2bd4b5684bd55331560c980a6a743",
+  "fs_checksum": "78ed7743e36e850f2a61785919babf2ce9927bb6f2c1e7662143501289edeb25",
   "fs_file_size": 131072
 }
